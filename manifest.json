@@ -1,0 +1,23 @@
+{
+  "data_scope": "approved_anonymous_reports",
+  "files": {
+    "all_reports": "/reports/approved_reports.min.json",
+    "cells_base_path": "/cells",
+    "insights_base_path": "/insights"
+  },
+  "last_successful_sync": "2026-07-08T12:30:52.047959Z",
+  "last_updated": "2026-07-08T12:30:52.047959Z",
+  "mirror_type": "full_replica",
+  "mirrors": [
+    "https://Bitgamb.github.io/anonymous-pothole-reports-mirror-1",
+    "https://Bitgamb.github.io/anonymous-pothole-reports-mirror-2",
+    "https://Bitgamb.github.io/anonymous-pothole-reports-mirror-3",
+    "https://Bitgamb.github.io/anonymous-pothole-reports-mirror-4",
+    "https://Bitgamb.github.io/anonymous-pothole-reports-mirror-5"
+  ],
+  "source": "anonymous_reports_neon",
+  "source_status": "fresh",
+  "total_cells": 1,
+  "total_records": 1,
+  "version": "2026-07-08T12:30:52.047959Z"
+}
