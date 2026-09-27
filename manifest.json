@@ -10,8 +10,8 @@
   "image_base_path": "/images/anonymous_reports",
   "image_storage": "github_pages",
   "images_mirrored": true,
-  "last_successful_sync": "2026-09-27T07:08:20.001627Z",
-  "last_updated": "2026-09-27T07:08:20.001627Z",
+  "last_successful_sync": "2026-09-27T12:59:01.072938Z",
+  "last_updated": "2026-09-27T12:59:01.072938Z",
   "mirror_type": "full_replica",
   "mirrors": [
     "https://Bitgamb.github.io/anonymous-pothole-reports-mirror-1",
@@ -26,5 +26,5 @@
   "total_cells": 1,
   "total_images": 1,
   "total_records": 1,
-  "version": "2026-09-27T07:08:20.001627Z"
+  "version": "2026-09-27T12:59:01.072938Z"
 }
